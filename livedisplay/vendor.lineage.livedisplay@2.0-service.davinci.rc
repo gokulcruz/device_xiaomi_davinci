@@ -6,4 +6,7 @@ service vendor.livedisplay-hal-2-0 /vendor/bin/hw/vendor.lineage.livedisplay@2.0
     class hal
     user system
     group system
+<<<<<<< HEAD
     writepid /dev/cpuset/system-background/tasks
+=======
+>>>>>>> 5c78364... davinci: Implement SunlightEnhancement LiveDisplay HAL
