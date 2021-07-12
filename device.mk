@@ -243,8 +243,12 @@ PRODUCT_PACKAGES += \
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     vendor.lineage.livedisplay@2.0-service-sdm \
     vendor.lineage.livedisplay@2.0-service.davinci
+=======
+    vendor.lineage.livedisplay@2.0-service-sdm
+>>>>>>> d875cc7... davinci: Build livedisplay
 
 # Media
 PRODUCT_PACKAGES += \
