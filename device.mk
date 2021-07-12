@@ -243,17 +243,8 @@ PRODUCT_PACKAGES += \
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
-<<<<<<< HEAD
-<<<<<<< HEAD
     vendor.lineage.livedisplay@2.0-service-sdm \
     vendor.lineage.livedisplay@2.0-service.davinci
-=======
-    vendor.lineage.livedisplay@2.0-service-sdm
->>>>>>> d875cc7... davinci: Build livedisplay
-=======
-    vendor.lineage.livedisplay@2.0-service-sdm \
-    vendor.lineage.livedisplay@2.0-service.davinci
->>>>>>> 5c78364... davinci: Implement SunlightEnhancement LiveDisplay HAL
 
 # Media
 PRODUCT_PACKAGES += \
